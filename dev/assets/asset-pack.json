@@ -1,0 +1,119 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/tileds/dieOak.png",
+                "frameConfig": {
+                    "frameWidth": 69,
+                    "frameHeight": 53,
+                    "startFrame": 0,
+                    "endFrame": 2,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "dieOak"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/tileds/effectHit.png",
+                "frameConfig": {
+                    "frameWidth": 87,
+                    "frameHeight": 77,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "effectHit"
+            },
+            {
+                "url": "assets/tileds/floor.png",
+                "frameConfig": {
+                    "frameWidth": 30,
+                    "frameHeight": 15,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "floor"
+            },
+            {
+                "url": "assets/tileds/idle_player.png",
+                "frameConfig": {
+                    "frameWidth": 125,
+                    "frameHeight": 111,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "idle_player"
+            },
+            {
+                "url": "assets/tileds/oak.png",
+                "frameConfig": {
+                    "frameWidth": 68,
+                    "frameHeight": 54,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 1,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "oak"
+            },
+            {
+                "url": "assets/tileds/player.png",
+                "frameConfig": {
+                    "frameWidth": 127,
+                    "frameHeight": 112,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "player"
+            },
+            {
+                "url": "assets/tileds/playerAttack.png",
+                "frameConfig": {
+                    "frameWidth": 200,
+                    "frameHeight": 110,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "playerAttack"
+            },
+            {
+                "url": "assets/tileds/sky.png",
+                "type": "image",
+                "key": "sky"
+            },
+            {
+                "url": "assets/tileds/tree.png",
+                "type": "image",
+                "key": "tree"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
