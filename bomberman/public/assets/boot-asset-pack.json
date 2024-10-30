@@ -1,0 +1,88 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/Options/background.png",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": "assets/Options/backgroundOption.png",
+                "type": "image",
+                "key": "backgroundOption"
+            },
+            {
+                "url": "assets/Options/optionsModel.png",
+                "frameConfig": {
+                    "frameWidth": 31,
+                    "frameHeight": 73,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "optionsModel"
+            },
+            {
+                "url": "assets/Home/pointer/pointer.png",
+                "frameConfig": {
+                    "frameWidth": 15,
+                    "frameHeight": 24,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 3,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "pointer"
+            },
+            {
+                "url": "assets/Home/pointer/pointerIdle.png",
+                "frameConfig": {
+                    "frameWidth": 16,
+                    "frameHeight": 24,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 1,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "pointerIdle"
+            },
+            {
+                "url": "assets/Home/pointer/selectPointer.png",
+                "frameConfig": {
+                    "frameWidth": 17,
+                    "frameHeight": 37,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "selectPointer"
+            },
+            {
+                "url": "assets/Options/volume.png",
+                "frameConfig": {
+                    "frameWidth": 16,
+                    "frameHeight": 16,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "volume"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
